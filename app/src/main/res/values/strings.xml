@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExtensionExample</string>
+    <string name="african">African</string>
+    <string name="adrt_rock">Art Rock</string>
+    <string name="black_metal">Bleck Mitol</string>
+    <string name="blues">Blues</string>
+    <string name="british_rock">British rock</string>
+</resources>
